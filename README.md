@@ -153,7 +153,12 @@ This project analyzes Electric Vehicle (EV) sales data using **Python, Pandas, M
 
 * Correlation Analysis
 
+### 📊 Project Dashboard
+
+![EV Sales Analysis Dashboard](dashboard.jpeg)
+
 ---
+
 
 # 💡 Key Insights
 
