@@ -1,0 +1,151 @@
+RecordID,Year,State,Manufacturer,VehicleType,EVSales,BatteryCapacity
+1,2021,Andhra Pradesh,BYD,Electric Scooter,2106,30
+2,2022,Gujarat,Tata,Electric Bike,4567,13
+3,2025,Tamil Nadu,Tata,Electric Car,867,29
+4,2022,Maharashtra,Mahindra,Electric Car,4697,27
+5,2025,Tamil Nadu,Ola,Electric Scooter,4927,37
+6,2021,Telangana,BYD,Electric Scooter,2887,37
+7,2022,Telangana,Ather,Electric Car,859,50
+8,2021,Karnataka,Ather,Electric Bike,2266,7
+9,2024,Maharashtra,Tata,Electric Scooter,745,72
+10,2023,Gujarat,Mahindra,Electric Scooter,4829,26
+11,2021,Andhra Pradesh,BYD,Electric Car,2470,12
+12,2022,Andhra Pradesh,MG,Electric Scooter,3814,48
+13,2022,Karnataka,Ather,Electric Car,2287,11
+14,2025,Gujarat,Ola,Electric Bike,2105,22
+15,2024,Tamil Nadu,Ather,Electric Bike,4662,30
+16,2023,Andhra Pradesh,Ola,Electric Car,2684,53
+17,2023,Andhra Pradesh,Ola,Electric Bike,2677,29
+18,2024,Tamil Nadu,BYD,Electric Scooter,1270,35
+19,2022,Telangana,BYD,Electric Bike,4515,35
+20,2025,Tamil Nadu,Mahindra,Electric Scooter,3065,30
+21,2022,Maharashtra,MG,Electric Car,485,16
+22,2022,Gujarat,Ola,Electric Bike,3558,10
+23,2024,Tamil Nadu,Mahindra,Electric Scooter,4434,34
+24,2025,Andhra Pradesh,BYD,Electric Bike,1038,70
+25,2023,Gujarat,Ather,Electric Car,2504,57
+26,2022,Tamil Nadu,Tata,Electric Bike,2257,66
+27,2022,Maharashtra,Tata,Electric Bike,2544,66
+28,2025,Telangana,Ola,Electric Scooter,1423,71
+29,2025,Andhra Pradesh,Mahindra,Electric Scooter,4102,4
+30,2021,Karnataka,Ather,Electric Car,574,32
+31,2025,Andhra Pradesh,Tata,Electric Bike,4081,10
+32,2025,Telangana,Ola,Electric Bike,3993,72
+33,2022,Karnataka,Mahindra,Electric Bike,3566,29
+34,2025,Gujarat,BYD,Electric Car,2653,53
+35,2023,Tamil Nadu,Mahindra,Electric Scooter,1091,33
+36,2022,Andhra Pradesh,Ather,Electric Car,4919,72
+37,2022,Maharashtra,Ola,Electric Car,681,9
+38,2022,Andhra Pradesh,Tata,Electric Scooter,680,67
+39,2022,Karnataka,BYD,Electric Scooter,1855,71
+40,2022,Gujarat,Mahindra,Electric Bike,3972,33
+41,2024,Tamil Nadu,Ola,Electric Car,894,57
+42,2023,Tamil Nadu,MG,Electric Scooter,543,14
+43,2021,Tamil Nadu,BYD,Electric Scooter,995,33
+44,2022,Telangana,Mahindra,Electric Scooter,1248,56
+45,2022,Karnataka,MG,Electric Car,717,58
+46,2025,Andhra Pradesh,Tata,Electric Bike,4528,3
+47,2021,Telangana,Ola,Electric Scooter,4078,63
+48,2022,Tamil Nadu,Tata,Electric Car,3204,2
+49,2024,Karnataka,MG,Electric Scooter,3565,73
+50,2024,Telangana,Ola,Electric Scooter,1883,9
+51,2025,Gujarat,Mahindra,Electric Car,2669,9
+52,2021,Maharashtra,MG,Electric Bike,4450,22
+53,2021,Maharashtra,Tata,Electric Car,661,10
+54,2022,Tamil Nadu,Tata,Electric Bike,2116,7
+55,2025,Andhra Pradesh,MG,Electric Bike,4881,74
+56,2025,Karnataka,Ather,Electric Car,2673,32
+57,2023,Tamil Nadu,Ola,Electric Bike,2557,60
+58,2023,Andhra Pradesh,Tata,Electric Scooter,4712,14
+59,2021,Maharashtra,Ola,Electric Bike,2272,18
+60,2023,Andhra Pradesh,Ola,Electric Scooter,2434,22
+61,2024,Maharashtra,BYD,Electric Scooter,4433,3
+62,2025,Karnataka,BYD,Electric Car,1200,35
+63,2021,Andhra Pradesh,BYD,Electric Bike,1373,36
+64,2023,Maharashtra,Ola,Electric Bike,2908,28
+65,2023,Maharashtra,MG,Electric Scooter,516,13
+66,2024,Karnataka,Tata,Electric Car,2832,18
+67,2023,Telangana,BYD,Electric Scooter,4619,56
+68,2025,Andhra Pradesh,Tata,Electric Car,1321,71
+69,2021,Karnataka,Mahindra,Electric Bike,1313,57
+70,2022,Andhra Pradesh,Ather,Electric Scooter,426,47
+71,2022,Gujarat,Ola,Electric Bike,942,47
+72,2025,Tamil Nadu,Mahindra,Electric Bike,1366,32
+73,2022,Telangana,MG,Electric Car,1569,44
+74,2024,Gujarat,BYD,Electric Car,2285,22
+75,2021,Tamil Nadu,Tata,Electric Scooter,1922,27
+76,2024,Karnataka,Ather,Electric Car,1926,5
+77,2022,Tamil Nadu,Ather,Electric Scooter,668,37
+78,2023,Gujarat,Mahindra,Electric Scooter,4492,44
+79,2021,Andhra Pradesh,Ather,Electric Car,4856,35
+80,2021,Andhra Pradesh,Mahindra,Electric Scooter,2931,42
+81,2024,Maharashtra,Mahindra,Electric Car,3255,75
+82,2022,Karnataka,Tata,Electric Bike,3672,2
+83,2025,Maharashtra,BYD,Electric Bike,1714,48
+84,2024,Andhra Pradesh,BYD,Electric Scooter,2671,17
+85,2023,Maharashtra,Ather,Electric Bike,3445,43
+86,2024,Gujarat,Ather,Electric Bike,1142,26
+87,2024,Gujarat,MG,Electric Bike,1525,74
+88,2023,Tamil Nadu,Mahindra,Electric Car,2589,38
+89,2022,Tamil Nadu,Mahindra,Electric Bike,2739,61
+90,2024,Tamil Nadu,BYD,Electric Car,4287,62
+91,2022,Gujarat,Tata,Electric Scooter,4322,44
+92,2021,Telangana,BYD,Electric Scooter,1940,27
+93,2022,Andhra Pradesh,Tata,Electric Car,3992,11
+94,2024,Tamil Nadu,BYD,Electric Bike,1692,51
+95,2024,Tamil Nadu,Ola,Electric Car,145,15
+96,2024,Telangana,Ola,Electric Bike,4343,61
+97,2021,Maharashtra,Ola,Electric Car,3839,19
+98,2024,Gujarat,Mahindra,Electric Bike,4977,42
+99,2024,Maharashtra,BYD,Electric Bike,3595,72
+100,2024,Telangana,BYD,Electric Scooter,3786,35
+101,2022,Gujarat,Ather,Electric Bike,4069,32
+102,2023,Tamil Nadu,Tata,Electric Bike,2440,32
+103,2023,Karnataka,Ather,Electric Bike,760,19
+104,2022,Telangana,MG,Electric Bike,1351,29
+105,2021,Tamil Nadu,MG,Electric Scooter,4545,61
+106,2024,Andhra Pradesh,Ola,Electric Scooter,3290,4
+107,2025,Tamil Nadu,MG,Electric Car,2981,40
+108,2024,Tamil Nadu,Mahindra,Electric Bike,4573,30
+109,2024,Telangana,Ather,Electric Scooter,4078,5
+110,2024,Karnataka,BYD,Electric Bike,3412,23
+111,2024,Telangana,Mahindra,Electric Bike,320,52
+112,2025,Maharashtra,BYD,Electric Car,787,56
+113,2022,Tamil Nadu,Ola,Electric Car,2231,50
+114,2023,Telangana,MG,Electric Scooter,2864,50
+115,2023,Tamil Nadu,Ather,Electric Car,3952,4
+116,2025,Andhra Pradesh,Ather,Electric Car,662,7
+117,2021,Telangana,Ola,Electric Car,1348,32
+118,2022,Tamil Nadu,BYD,Electric Car,4720,29
+119,2024,Gujarat,Ather,Electric Scooter,1474,16
+120,2022,Karnataka,Tata,Electric Bike,310,41
+121,2025,Gujarat,MG,Electric Scooter,1724,11
+122,2025,Gujarat,BYD,Electric Car,934,40
+123,2025,Andhra Pradesh,Mahindra,Electric Car,2944,70
+124,2024,Gujarat,Ather,Electric Car,4244,45
+125,2021,Tamil Nadu,MG,Electric Car,3651,48
+126,2024,Gujarat,Ola,Electric Scooter,1542,68
+127,2023,Maharashtra,Mahindra,Electric Scooter,3908,57
+128,2025,Karnataka,Ather,Electric Car,809,37
+129,2024,Telangana,MG,Electric Bike,3204,45
+130,2021,Tamil Nadu,Ather,Electric Car,4094,29
+131,2023,Karnataka,Ather,Electric Scooter,4983,37
+132,2025,Andhra Pradesh,Mahindra,Electric Car,801,32
+133,2024,Tamil Nadu,Mahindra,Electric Car,4000,64
+134,2024,Andhra Pradesh,Tata,Electric Scooter,1915,53
+135,2022,Karnataka,BYD,Electric Bike,3123,62
+136,2025,Maharashtra,Ather,Electric Scooter,4608,44
+137,2023,Gujarat,MG,Electric Scooter,2611,34
+138,2022,Andhra Pradesh,BYD,Electric Car,2684,17
+139,2025,Gujarat,Ola,Electric Car,1872,63
+140,2023,Gujarat,Mahindra,Electric Bike,4988,38
+141,2021,Telangana,Ather,Electric Car,3056,24
+142,2023,Andhra Pradesh,BYD,Electric Bike,1136,37
+143,2021,Andhra Pradesh,Mahindra,Electric Scooter,1134,64
+144,2021,Andhra Pradesh,Mahindra,Electric Scooter,3945,63
+145,2024,Karnataka,Ola,Electric Car,2168,63
+146,2021,Andhra Pradesh,MG,Electric Scooter,706,75
+147,2021,Telangana,Ola,Electric Bike,2589,12
+148,2022,Andhra Pradesh,Mahindra,Electric Scooter,4983,30
+149,2025,Tamil Nadu,MG,Electric Scooter,2535,56
+150,2023,Maharashtra,Mahindra,Electric Car,912,28
