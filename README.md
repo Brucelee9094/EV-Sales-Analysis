@@ -239,6 +239,7 @@ Through this project, I learned:
 # 🚀 Future Improvements
 
 * Build an interactive dashboard using Power BI.
+*  Implement regression or time-series forecasting (like ARIMA or Prophet) to predict future EV sales trends based on historical data.
 * Add forecasting models for EV sales prediction.
 * Create geographical sales visualizations.
 * Develop an interactive web dashboard using Streamlit.
